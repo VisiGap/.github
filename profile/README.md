@@ -1,8 +1,7 @@
 <!-- VisiGap GitHub Organization README -->
 
 <p align="center">
-  <!-- 您可以在这里放置您的 Logo。如果还没有，可以暂时移除这一行 -->
-  <img src="[https://github.com/VisiGap/.github/blob/9089509617fbbfea7da545621f305b3b5997c07e/image.png]" alt="VisiGap Logo" width="150"/>
+  <img src="[https://github.com/VisiGap/.github/blob/main/image.png]" alt="VisiGap Logo" width="150"/>
 </p>
 
 <h1 align="center">
