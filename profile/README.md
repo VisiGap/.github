@@ -1,7 +1,7 @@
 <!-- VisiGap GitHub Organization README -->
 
 <p align="center">
-  <img src="[github.com/VisiGap/.github/blob/main/image.png]" alt="VisiGap Logo" width="150"/>
+  ![image](https://github.com/VisiGap/.github/blob/main/image.png)
 </p>
 
 <h1 align="center">
