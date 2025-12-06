@@ -29,6 +29,13 @@ At VisiGap, we are dedicated to building multiple projects from scratch in **mul
 
 (在 VisiGap，我们正致力于用 **多种语言** 从零开始打造多个项目。我们专注于弥合优化与性能之间的“鸿沟”，让技术触手可及。)
 
+### 🛠️ Tech Stack (技术栈）
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+
 ## 🤝 How to Contribute (如何贡献)
 
 VisiGap is a community-driven, open-source project, and we welcome contributions of all kinds! Whether you are a graphics programmer, a tool developer, a technical artist, or a C++ enthusiast, there are many ways to get involved.
