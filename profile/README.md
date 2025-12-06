@@ -45,8 +45,6 @@ VisiGap is a community-driven, open-source project, and we welcome contributions
 2.  **Read our guidelines**: Before you start, please read our [**Contributing Guidelines**](./CONTRIBUTING.md) to understand our coding standards (we follow modern C++ practices!), workflow, and best practices.
 3.  **Join the discussion**: Have a great idea for a new feature or an architectural question? Join our [**Community Discord/Slack**](link-to-community) to chat with the core team and other contributors.
 
-We are excited to build the future of real-time graphics with you!
-
 ## 📬 Get in Touch (联系我们)
 
 *   **Discord/Slack**: [**Join our server**](link-to-community) - The best place for real-time conversation and technical support.
