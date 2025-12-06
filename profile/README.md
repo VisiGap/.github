@@ -1,17 +1,17 @@
-<!-- VisiGap Game Engine GitHub Organization README -->
+<!-- VisiGap Game GitHub Organization README -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VisiGap/.github/main/image.png" alt="VisiGap Engine Logo" width="180"/>
 </p>
 
 <h1 align="center">
-  Welcome to the VisiGap Engine Project
+  Welcome to the VisiGap Perform
 </h1>
 
 <p align="center">
   <b>Building the next generation of real-time rendering and interactive experiences.</b>
   <br />
-  <i>(构建下一代的实时渲染与互动体验。)</i>
+  <i>(构建下一代的互动体验。)</i>
 </p>
 
 <p align="center">
@@ -25,18 +25,9 @@
 
 ## 🚀 Our Mission (我们的使命)
 
-At VisiGap, we are crafting a modern, high-performance game engine from the ground up using **C++**. Our mission is to empower developers and creators by providing a powerful, flexible, and open-source toolset to build stunning, immersive virtual worlds. We focus on bridging the "gap" between cutting-edge visual fidelity and real-time performance, making next-generation graphics accessible to everyone.
+At VisiGap, we are dedicated to building multiple projects from scratch in **multiple languages**. We focus on bridging the "gap" between optimization and performance, making technology accessible to all.
 
-(在 VisiGap，我们正致力于用 **C++** 从零开始打造一款现代、高性能的游戏引擎。我们的使命是通过提供一套强大、灵活的开源工具集，赋能开发者与创作者们构建令人惊叹的、沉浸式的虚拟世界。我们专注于弥合尖端视觉保真度与实时性能之间的“鸿沟”，让次世代图形技术触手可及。)
-
-## ✨ Engine Architecture (引擎架构)
-
-Our engine is designed with a modular architecture to ensure scalability and maintainability. Key repositories include:
-
-*   ⚙️ **[engine-core](link-to-repo)**: The heart of VisiGap. This repository contains the core C++ framework, entity-component system (ECS), memory management, and platform abstraction layers.
-*   🎨 **[renderer](link-to-repo)**: Our modern rendering module. It features a configurable pipeline supporting APIs like Vulkan, DirectX 12, and Metal for high-fidelity, cross-platform graphics.
-*   🛠️ **[editor-tools](link-to-repo)**: The official VisiGap Editor. Home to the scene editor, material editor, and other essential tools for content creation and project management.
-*   🏈 **[physics-module](link-to-repo)**: The integrated physics simulation module, responsible for collision detection, rigid body dynamics, and realistic physical interactions.
+(在 VisiGap，我们正致力于用 **多种语言** 从零开始打造多个项目。我们专注于弥合优化与性能之间的“鸿沟”，让技术触手可及。)
 
 ## 🤝 How to Contribute (如何贡献)
 
