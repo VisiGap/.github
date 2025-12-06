@@ -31,10 +31,11 @@ At VisiGap, we are dedicated to building multiple projects from scratch in **mul
 
 ### 🛠️ Tech Stack (技术栈）
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,cmake,go,git,visualstudio,vscode" />
+  </a>
+</p>
 
 ## 🤝 How to Contribute (如何贡献)
 
