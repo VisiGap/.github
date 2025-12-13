@@ -33,7 +33,7 @@ At VisiGap, we are dedicated to building multiple projects from scratch in **mul
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cmake,androidstudioc,dotnet,gradle,mongodb,postgres,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,cmake,androidstudio,dotnet,gradle,mongodb,postgres,visualstudio,vscode" />
   </a>
 </p>
 <p align="center">
