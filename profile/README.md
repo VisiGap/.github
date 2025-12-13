@@ -38,7 +38,7 @@ At VisiGap, we are dedicated to building multiple projects from scratch in **mul
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,go,angular,dotnet,java,rust,ts" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,go,angular,dotnet,java,rust,ts,js" />
   </a>
 </p>
 
