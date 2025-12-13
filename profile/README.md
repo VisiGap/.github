@@ -31,16 +31,14 @@ At VisiGap, we are dedicated to building multiple projects from scratch in **mul
 
 ## 🛠️ Tech Stack (技术栈）
 
-### 🛠️Tool (工具)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cmake,androidstudioc,dotnet,gradle,mongodb,postgres,visualstudio,vscode" />
   </a>
 </p>
-### Language (语言)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,go,angular,c,cs,,java,rust,ts" />
+    <img src="https://skillicons.dev/icons?i=cpp,go,angular,c,cs,java,rust,ts" />
   </a>
 </p>
 
